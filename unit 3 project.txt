@@ -1,0 +1,17 @@
+<!DOCTYPE>
+ <html>
+    <head>
+       <title>Catalina's Seasons</title>
+       <style>
+         body{
+             font-family: "Lucida Handwriting"
+             font-weight: bold;
+             font-size: .5cm;
+             text-decoration: no underline;
+             text-align: left;
+         } 
+      </style>
+   </head>
+    <body>
+       <header>
+       
